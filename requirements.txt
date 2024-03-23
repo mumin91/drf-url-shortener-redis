@@ -1,4 +1,4 @@
-asgiref==3.4.1
+asgiref==3.8.1
 Deprecated==1.2.13
 Django==4.0.1
 django-cors-headers==3.10.1
